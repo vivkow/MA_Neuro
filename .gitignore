@@ -4,3 +4,8 @@
 *.txt
 *.pptx
 *.xlsx
+*.pdf
+*.drawio
+*.id2word
+*.npy
+*.state
